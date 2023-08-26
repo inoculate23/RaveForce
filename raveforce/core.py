@@ -1,3 +1,4 @@
+pip install wasmer
 from wasmer import engine, Store, Module, Instance, Memory, ImportObject, Function, FunctionType, Type
 from wasmer_compiler_cranelift import Compiler
 from urllib.request import urlopen
