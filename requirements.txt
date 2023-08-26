@@ -1,0 +1,8 @@
+wasmer
+wasmer_compiler_cranelift
+urllib.request
+numpy
+sys
+datetime
+struct
+random
